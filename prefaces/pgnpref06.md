@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pgn_Page_014_Image_0002.png
 source_page: Contents, 1
@@ -11,4 +13,6 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 [illegible]
 
-> This scan (`pgn_Page_014_Image_0002.png`) is a near-blank, very low-ink capture; only a faint running head ("xi … IN THE GUPTA INSCRIPTIONS") and two or three indistinct table rows survive at the very top. The body of the Contents table is not legibly recoverable from this scan. The full table of contents continues on [pgnpref07.md](pgnpref07.md).
+> This scan (`pgn_Page_014_Image_0002.png`) is a near-blank, very low-ink capture; only a faint running head ("xi … IN THE GUPTA INSCRIPTIONS") and two or three indistinct table rows survive at the very top. The body of the Contents table is not legibly recoverable from this scan. The full table of contents continues on [pgnpref07.md](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref07.md).
+
+_Dr. Mārcis Gasūns_

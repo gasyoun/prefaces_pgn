@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pgn_Page_014_Image_0002.png
 source_page: Contents, 1
@@ -13,4 +15,6 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 [неразборчиво]
 
-> Этот скан (`pgn_Page_014_Image_0002.png`) представляет собой почти пустой снимок с очень слабой пропечаткой; различимы лишь слабый колонтитул («xi … IN THE GUPTA INSCRIPTIONS») и две-три неясные строки таблицы в самом верху. Содержание самой таблицы оглавления по этому скану разборчиво не восстанавливается. Полное оглавление продолжается на странице [pgnpref07.md](pgnpref07.md).
+> Этот скан (`pgn_Page_014_Image_0002.png`) представляет собой почти пустой снимок с очень слабой пропечаткой; различимы лишь слабый колонтитул («xi … IN THE GUPTA INSCRIPTIONS») и две-три неясные строки таблицы в самом верху. Содержание самой таблицы оглавления по этому скану разборчиво не восстанавливается. Полное оглавление продолжается на странице [pgnpref07.md](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref07.md).
+
+_Dr. Mārcis Gasūns_

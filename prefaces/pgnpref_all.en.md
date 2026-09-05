@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English, source language)
 
-Per-page files: `pgnprefNN.md`. Index: [README.md](README.md).
+Per-page files: `pgnprefNN.md`. Index: [README.md](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -98,7 +100,7 @@ LALLANJI GOPAL
 
 [illegible]
 
-> This scan (`pgn_Page_014_Image_0002.png`) is a near-blank, very low-ink capture; only a faint running head ("xi … IN THE GUPTA INSCRIPTIONS") and two or three indistinct table rows survive at the very top. The body of the Contents table is not legibly recoverable from this scan. The full table of contents continues on [pgnpref07.md](pgnpref07.md).
+> This scan (`pgn_Page_014_Image_0002.png`) is a near-blank, very low-ink capture; only a faint running head ("xi … IN THE GUPTA INSCRIPTIONS") and two or three indistinct table rows survive at the very top. The body of the Contents table is not legibly recoverable from this scan. The full table of contents continues on [pgnpref07.md](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref07.md).
 
 
 ---
@@ -224,3 +226,5 @@ In the study of the geographical names we are not only concerned with their iden
 The works on personal names are very few. In India a work of the type of *Your Baby’s name* by Maxwell Nurnberg and Morris Rosenblum, has yet to be carried out, where the original history of English names has been worked out, statistics are given of its use by estimated number of people and ranked accordingly and the connotations given along with the citations from literature. The names for the boys and girls have also been classified separately.
 
 The present study, originally a doctoral thesis accepted by the Banaras Hindu University in 1968, seeks to discuss separately different name-patterns with regard to personal names, names of tribes, places, rivers and mountains, though in a modest way. I owe special gratitude to Dr. V.S. Pathak of the Gorakhpur University and Dr. L. Gopal of the Banaras Hindu University, who helped me through this work. I feel highly obliged to
+
+_Dr. Mārcis Gasūns_

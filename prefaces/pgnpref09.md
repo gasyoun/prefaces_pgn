@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pgn_Page_017_Image_0002.png
 source_page: Preface, 2
@@ -16,3 +18,5 @@ Some people may ward off the idea in a name by saying merely “what is in a nam
 A person is identified by his name by the family members as well as by others. Man lives with his name in this life and even after death the name survives. There is a taboo about the secret name not to be disclosed or made known to others for fear of sorcery or black-magic or ill-effect by the spirits.
 
 It may also be mentioned that some people may give the names to their children quite thoughtfully—it may be after a god, a hero, a character from some fiction, while others may
+
+_Dr. Mārcis Gasūns_

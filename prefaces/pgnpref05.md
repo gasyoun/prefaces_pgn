@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pgn_Page_013_Image_0002.png
 source_page: Foreword, 3
@@ -19,3 +21,5 @@ In introducing the present study to the world of scholars I must express my ferv
 *VARANASI, U.P.*
 
 LALLANJI GOPAL
+
+_Dr. Mārcis Gasūns_

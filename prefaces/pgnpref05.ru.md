@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pgn_Page_013_Image_0002.png
 source_page: Foreword, 3
@@ -21,3 +23,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 *VARANASI, U.P.*
 
 ЛАЛЛАНДЖИ ГОПАЛ
+
+_Dr. Mārcis Gasūns_

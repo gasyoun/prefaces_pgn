@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pgn_Page_015_Image_0002.png
 source_page: Contents, 2
@@ -47,3 +49,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | Топонимы и их суффиксы | 209 |
 | Имена рек и гор | 293 |
 | Заключение | 305 |
+
+_Dr. Mārcis Gasūns_

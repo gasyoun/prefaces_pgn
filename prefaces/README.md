@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # PGN — Front matter (prefaces)
 
 OCR + translation of the **front matter** (title pages, dedication, foreword, table of contents, and author's preface) of:
@@ -25,31 +27,31 @@ This is the **PGN** source of the Cologne Digital Sanskrit Lexicon (CDSL) — a 
 
 | Edition | File |
 |---|---|
-| English (source) | [pgnpref_all.en.md](pgnpref_all.en.md) |
-| Русский | [pgnpref_all.ru.md](pgnpref_all.ru.md) |
-| Builder | [build_combined.py](build_combined.py) |
+| English (source) | [pgnpref_all.en.md](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref_all.en.md) |
+| Русский | [pgnpref_all.ru.md](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref_all.ru.md) |
+| Builder | [build_combined.py](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/build_combined.py) |
 
 ## Contents
 
 | NN | Section | Vol. | Source | EN | RU |
 |---|---|---|---|---|---|
-| 01 | Title | 1 | [scan](scans/pgn_Page_007_Image_0002.png) | [en](pgnpref01.md) | [ru](pgnpref01.ru.md) |
-| 02 | Dedication | 1 | [scan](scans/pgn_Page_009_Image_0002.png) | [en](pgnpref02.md) | [ru](pgnpref02.ru.md) |
-| 03 | Foreword, 1 | 1 | [scan](scans/pgn_Page_011_Image_0002.png) | [en](pgnpref03.md) | [ru](pgnpref03.ru.md) |
-| 04 | Foreword, 2 | 1 | [scan](scans/pgn_Page_012_Image_0002.png) | [en](pgnpref04.md) | [ru](pgnpref04.ru.md) |
-| 05 | Foreword, 3 | 1 | [scan](scans/pgn_Page_013_Image_0002.png) | [en](pgnpref05.md) | [ru](pgnpref05.ru.md) |
-| 06 | Contents, 1 | 1 | [scan](scans/pgn_Page_014_Image_0002.png) | [en](pgnpref06.md) | [ru](pgnpref06.ru.md) |
-| 07 | Contents, 2 | 1 | [scan](scans/pgn_Page_015_Image_0002.png) | [en](pgnpref07.md) | [ru](pgnpref07.ru.md) |
-| 08 | Preface, 1 *(= Contents tail)* | 1 | [scan](scans/pgn_Page_016_Image_0002.png) | [en](pgnpref08.md) | [ru](pgnpref08.ru.md) |
-| 09 | Preface, 2 | 1 | [scan](scans/pgn_Page_017_Image_0002.png) | [en](pgnpref09.md) | [ru](pgnpref09.ru.md) |
-| 10 | Preface, 3 | 1 | [scan](scans/pgn_Page_018_Image_0002.png) | [en](pgnpref10.md) | [ru](pgnpref10.ru.md) |
+| 01 | Title | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_007_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref01.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref01.ru.md) |
+| 02 | Dedication | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_009_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref02.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref02.ru.md) |
+| 03 | Foreword, 1 | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_011_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref03.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref03.ru.md) |
+| 04 | Foreword, 2 | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_012_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref04.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref04.ru.md) |
+| 05 | Foreword, 3 | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_013_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref05.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref05.ru.md) |
+| 06 | Contents, 1 | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_014_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref06.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref06.ru.md) |
+| 07 | Contents, 2 | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_015_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref07.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref07.ru.md) |
+| 08 | Preface, 1 *(= Contents tail)* | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_016_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref08.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref08.ru.md) |
+| 09 | Preface, 2 | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_017_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref09.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref09.ru.md) |
+| 10 | Preface, 3 | 1 | [scan](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/scans/pgn_Page_018_Image_0002.png) | [en](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref10.md) | [ru](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref10.ru.md) |
 
 ## Signatures, dates & notes found
 
 - **Foreword** signed **Lallanji Gopal**, *Banaras Hindu University, VARANASI, U.P.* (no date printed).
 - **Preface** by the author Tej Ram Sharma; references J. F. Fleet's *Corpus Inscriptionum Indicarum*, Vol. III as the inscription-ordering source; the study was accepted as a doctoral thesis by Banaras Hindu University in **1968**.
 - Sanskrit dictum quoted in the Preface: *yathā nāma tathā guṇaḥ*.
-- The toctree labels page 08 "Preface, 1", but the scan in fact shows the **tail of the Contents** (Appendices + Maps and Plates) — flagged in [pgnpref08.md](pgnpref08.md).
+- The toctree labels page 08 "Preface, 1", but the scan in fact shows the **tail of the Contents** (Appendices + Maps and Plates) — flagged in [pgnpref08.md](https://github.com/gasyoun/prefaces_pgn/blob/main/prefaces/pgnpref08.md).
 - **Page 06 (Contents, 1)** scan `pgn_Page_014_Image_0002.png` is a near-blank, very low-ink capture (~8 KB) — only a faint running head and 2–3 indistinct rows survive; it is marked `[illegible]`. The **full** table of contents is legibly present on page 07.
 
 <details>
@@ -72,3 +74,5 @@ Produced by the `/cologne-preface-ocr` skill (synchronous, no subagents — per 
 ---
 
 > **Home-repo flag:** PGN has **no local dictionary repo** cloned under `GitHub/` (only the data lives in `csl-orig/v02/pgn/`). This `prefaces/` work currently sits in the standalone working dir `GitHub/prefaces_pgn/` and is **not committed anywhere** — it needs a home-repo decision (e.g. a new `sanskrit-lexicon/PGN` repo, or fold into `csl-orig`/another container). No commit/push was performed.
+
+_Dr. Mārcis Gasūns_
